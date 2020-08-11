@@ -4,7 +4,7 @@
     <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
 </div>
 
-**基本信息：** 王禹森 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河南洛阳
+**基本信息：** 王禹森 / 男 / 21&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 河南洛阳
 
 **手&ensp;机&ensp;号：** 15139761379&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** wys9853@163.com
 
