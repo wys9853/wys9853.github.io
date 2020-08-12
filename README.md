@@ -48,7 +48,7 @@
 <br/>
 **简介：** 基于Java的学生信息管理系统
 <br/>
-**地址：**https://github.com/wys9853/Student-Information-Management-System
+**地址：** https://github.com/wys9853/Student-Information-Management-System
 
 **名称：** yyyy 
 <br/>
