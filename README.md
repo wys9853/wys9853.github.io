@@ -20,7 +20,7 @@
 
 <h1>教育背景</h1>
 
-河南科技大学大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.09-2019.06&emsp;&emsp;&emsp;&emsp;&emsp;计算机科学与技术
+河南科技大学大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.09-&emsp;&emsp;&emsp;&emsp;&emsp;计算机科学与技术
 
 <h1>实习经历</h1>
 
